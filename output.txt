@@ -1,0 +1,17 @@
+total 64K
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 22 20:15 00_Fundamentos
+drwxr-xr-x 4 jvivieso jvivieso 4.0K Apr 22 20:15 01_Terminal
+drwxr-xr-x 4 jvivieso jvivieso 4.0K Jan 24 21:19 02_Git
+drwxr-xr-x 5 jvivieso jvivieso 4.0K Apr 21 17:48 03_Curso Python
+drwxr-xr-x 4 jvivieso jvivieso 4.0K Jan 24 21:19 04_POO
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Jan 24 21:19 05_Backend_Fundamentos
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Jan 26 16:45 06_Fast API
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Jan 24 21:19 07_Data Science
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 13 22:05 08_Bases de Datos
+drwxr-xr-x 5 jvivieso jvivieso 4.0K Mar  5 23:22 09_Introduccion_WEB
+drwxr-xr-x 6 jvivieso jvivieso 4.0K Apr 13 22:05 10_Optimization_Models
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 13 22:05 11_Curriculum
+drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 22 20:15 12_Inteligencia_Artificial
+-rw-r--r-- 1 jvivieso jvivieso   40 Jan 24 21:19 README.md
+-rw-r--r-- 1 jvivieso jvivieso 1.4K Apr 29 21:09 ejemplo.txt
+-rw-r--r-- 1 jvivieso jvivieso  955 Apr 13 22:05 init.ipynb
