@@ -2,7 +2,6 @@ Volvi a modificar este archivo por segunda vez
 
 Aqui se modifico el archivo
 
-total 64K
 drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 22 20:15 00_Fundamentos
 drwxr-xr-x 4 jvivieso jvivieso 4.0K Apr 22 20:15 01_Terminal
 drwxr-xr-x 4 jvivieso jvivieso 4.0K Jan 24 21:19 02_Git
