@@ -1,3 +1,5 @@
 Aqui empieza mi travesia
 
 voy a describir varias cosas a partir de aqui para entender lo que puede llegar a significar git. Creo que es una buena herramienta que solo necesitas aprender una vez y ya.
+
+Realice cambios en esta linea para el archivo ejemplo2.txt
