@@ -24,3 +24,5 @@ drwxr-xr-x 3 jvivieso jvivieso 4.0K Apr 22 20:15 12_Inteligencia_Artificial
 Este es el final del archivo plano
 
 Este archivo es un ejemplo para el curso de git y github
+
+Hola
