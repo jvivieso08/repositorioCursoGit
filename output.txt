@@ -25,4 +25,3 @@ Este es el final del archivo plano
 
 Este archivo es un ejemplo para el curso de git y github
 
-Hola
