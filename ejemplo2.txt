@@ -11,3 +11,4 @@ Voy a probar el comando git diff sin nigún argumento
 Sigo probando el archivo git diff
 
 Esta línea es de prueba para saber que pasa cuando se realiza el merge
+Voy a cambiar este archivo para luego realizar un merge con la rama master
