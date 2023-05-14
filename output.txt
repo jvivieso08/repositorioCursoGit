@@ -30,3 +30,6 @@ NUEVO TEXTO PARA REALIZAR PRUEBAS CON OTRA RAMA
 Aqui empieza lo nuevo que estoy aprediendo con ramas
 
 Se realiza un cambio desde Git HUb
+
+Primer commit con patron15
+
