@@ -1,5 +1,8 @@
-a = 3
 
-b = 4
+def sum(a,b):
+    print(a+b)
 
-print(a+b)
+print(sum(1,2))
+
+
+
