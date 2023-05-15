@@ -33,3 +33,5 @@ Se realiza un cambio desde Git HUb
 
 Primer commit con patron15
 
+Volvi a cambiar el archivo con patron15
+
