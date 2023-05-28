@@ -14,3 +14,5 @@ Esta línea es de prueba para saber que pasa cuando se realiza el merge
 Voy a cambiar este archivo para luego realizar un merge con la rama master
 
 Desde aquí vamos a trabajar con el usuario nuevo que acabé de crear
+
+Estos cambios se hacen sin aceptar el request de jviviescas
