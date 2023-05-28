@@ -1,3 +1,4 @@
+:i
 Aqui empieza mi travesia
 
 voy a describir varias cosas a partir de aqui para entender lo que puede llegar a significar git. Creo que es una buena herramienta que solo necesitas aprender una vez y ya.
@@ -14,3 +15,6 @@ Esta línea es de prueba para saber que pasa cuando se realiza el merge
 Voy a cambiar este archivo para luego realizar un merge con la rama master
 
 Desde aquí vamos a trabajar con el usuario nuevo que acabé de crear
+
+
+Jviviescas empezó a trabajar en este proyecto, para empezar a tratar el tema de los fork.
