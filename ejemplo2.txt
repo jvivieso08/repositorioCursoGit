@@ -16,5 +16,6 @@ Voy a cambiar este archivo para luego realizar un merge con la rama master
 
 Desde aquí vamos a trabajar con el usuario nuevo que acabé de crear
 
-
 Jviviescas empezó a trabajar en este proyecto, para empezar a tratar el tema de los fork.
+
+Estos cambios se hacen sin aceptar el request de jviviescas
